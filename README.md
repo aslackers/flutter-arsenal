@@ -1,6 +1,9 @@
 # flutter-arsenal
 Flutter arsenal,According to my preferences, I have summarized the commonly used flutter packages.
 
+## Launch
+- [introduction_screen](https://pub.dev/packages/introduction_screen) Introduction/Onboarding package for flutter app with some customizations possibilities.
+
 ## Auth
 - [firebase_auth](https://pub.dev/packages/firebase_auth) Flutter plugin for Firebase Auth, enabling authentication using passwords, phone numbers and identity providers like Google, Facebook and Twitter.
 - [local_auth](https://pub.dev/packages/local_auth) Flutter plugin for Android and iOS devices to allow local authentication via fingerprint, touch ID, face ID, passcode, pin, or pattern.
