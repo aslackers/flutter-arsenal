@@ -26,3 +26,6 @@ Flutter arsenal,According to my preferences, I have summarized the commonly used
  
 ## Pagination
 - [infinite_scroll_pagination](https://pub.dev/packages/infinite_scroll_pagination) Lazily load and display pages of items as the user scrolls down your screen.
+
+## Store
+- [in_app_purchase](https://pub.dev/packages/in_app_purchase) A Flutter plugin for in-app purchases. Exposes APIs for making in-app purchases through the App Store and Google Play.
